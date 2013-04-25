@@ -1,0 +1,2 @@
+puppet-naginator-spec
+=====================
