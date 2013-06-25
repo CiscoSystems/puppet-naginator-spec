@@ -1,5 +1,5 @@
 Name:		puppet-naginator	
-Version:	0.4
+Version:	0.5
 Release:	1cisco%{?dist}
 Summary:	Puppet naginator module
 
@@ -37,6 +37,9 @@ cp -R * %{buildroot}/%{_usr}/share/puppet/modules/%{tmpname}/
 rm -rf %{buildroot}
 
 %changelog
+* Tue Jun 25 2013 Pradeep Kilambi <pkilambi@cisco.com> 0.5-1cisco
+- 
+
 * Mon Jun 17 2013 Pradeep Kilambi <pkilambi@cisco.com> 0.4-1cisco
 - 
 
